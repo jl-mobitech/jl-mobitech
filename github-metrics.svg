@@ -605,7 +605,7 @@
                 </h2>
                 <div class="row">
                     <section class="people">
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQYDBAf/xAAqEAABAwMCBAUFAAAAAAAAAAABAgMEAAURBjESIUFREyKRocEUMmFigf/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EAB4RAAICAQUBAAAAAAAAAAAAAAABAhEEEhMhMUEi/9oADAMBAAIRAxEAPwAhknvWM/UFrtLyGrjILRIyMDPXb5pC0w3p0tuPFbLjqthnHuan9fx4unb9EM9ltciW2WSpJDgRgjrn96xpWzQq9dCS5bE1hEiI6HWF/aodelESM+KeVPLsarHEbgONLaWyD5VDBGTn5riYjBxKid+Iii2olFG+BlDb8KG+ph3gkrw20BuTv/ByGTt60BeLky8IkCO267Lj83HVeQs8uYyO5Ht+Ko9Vr+jtomMpQJDaVcKiNqitNtg2pqQolT8oeK6s7qVmlD778BJ7cdS7Z6tr/UUa82+NDjtZkW9tsuuEdCgYwe2aiY+AyjO5yfesrK6o3S8tE5QWm0YPZPDiuXUTK2ZTCY8h9pBYQeFBGM+lQyXVIrj8qz//2Q==" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQYDBAf/xAAqEAABAwMCBAUFAAAAAAAAAAABAgMEAAURBjESIUFRExSRocEiMmFigf/EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/EAB4RAAICAQUBAAAAAAAAAAAAAAABAhEEEhMhMUEi/9oADAMBAAIRAxEAPwAhknvWM/UFrtLyGrjILRIyMDPXb5pC0w3p0tuPFbLjqthnHuan9fx4unb9EM5ltciW2WSpJDgRgjrn96xpWzQq9dCS5bE1hEiI6HWF/aodelESM+KeVPLsqrHEbgONLaWyD9ChgjJz81xMRg4lRO/ERRbUSijfAyht+FDfUw7wSV4baA3J3/g5DJ29aAvFyZeESBHbddlx+bjqhwFnlzGR3I9vxVHqtfk7aJjKUCQ2lXCojaorTbYNqakKJU/KHiurO6lZpQ++/ASe3HUu2era/wBRRrzb40OO1mRb22y64R0KBjB7ZqJj4DKM7nJ96ysrqjdLy0TlBabRg9k8OK5tRMrYlsJjyX2kFhCuFKhjPpUMl1SK4/Ks/9k=" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -808,7 +808,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 May 2026, 04:45:09 (timezone Asia/Manila) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 May 2026, 06:03:29 (timezone Asia/Manila) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
